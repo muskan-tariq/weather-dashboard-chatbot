@@ -25,7 +25,7 @@ An OpenWeather API Key (Sign up at OpenWeather)
 A Gemini API Key (Register at Google AI Studio)
 Getting Started
 1. Clone the Repository
-git clone https://github.com/your-username/weather-dashboard-chatbot.git
+git clone https://muskan-tariq.github.io/weather-dashboard-chatbot/
 cd weather-dashboard-chatbot
 2. Install Dependencies
 There are no major dependencies beyond basic HTML/CSS/JS. However, if you want to run a local server:
@@ -46,7 +46,7 @@ A. Using a simple HTTP server:
 npm install -g http-server
 2.Run the server:
 http-server
-3.Open the project in your web browser at http://localhost:8080.
+3.Open the project in your web browser at http://localhost:8081.
 B. Open index.html directly:
 Open the index.html file in your browser by double-clicking it.
 6. Using the Weather Dashboard
