@@ -1,0 +1,88 @@
+/* * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    display: flex;
+    height: 100vh;
+  }
+  
+  aside {
+    width: 20%;
+    background: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  aside .logo {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+  
+  aside ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  aside ul li {
+    margin-bottom: 15px;
+  }
+  
+  aside ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  main {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  #weather-info, #table-section, #chatbot-section {
+    margin-top: 20px;
+  }
+  
+  .widget {
+    padding: 20px;
+    background: #f3f3f3;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .charts {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
+  canvas {
+    width: 300px;
+    height: 200px;
+  }
+  
+  #chatbot {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  #chatbot-output {
+    height: 100px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    overflow-y: auto;
+  }
+   */
